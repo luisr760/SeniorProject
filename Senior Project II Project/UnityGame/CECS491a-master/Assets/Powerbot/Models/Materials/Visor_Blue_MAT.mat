@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Visor_Blue_MAT
+  m_Shader: {fileID: 4800000, guid: b1fd18905b257914fb3615af5bfb7f48, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Cube
+      second:
+        m_Texture: {fileID: 8900000, guid: 462923a710abedf458427eb012940951, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DIF
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Gloss
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _NM
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Reflection
+      second:
+        m_Texture: {fileID: 2800000, guid: 585a837e3c13631498d53f170b703a6a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _GlossPower
+      second: 0.4
+    - first:
+        name: _RIM_Exp
+      second: 1
+    - first:
+        name: _Reflection_Amm
+      second: 1.9
+    - first:
+        name: _SI
+      second: 0.15
+    - first:
+        name: _Shininess
+      second: 0.13557576
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 0.014705896, g: 0.014705896, b: 0.014705896, a: 1}
+    - first:
+        name: _DIF_color
+      second: {r: 0.12943341, g: 0.20079802, b: 0.46323532, a: 1}
+    - first:
+        name: _RIM
+      second: {r: 0.20274651, g: 0.53375906, b: 0.9191176, a: 1}
+    - first:
+        name: _ReflectColor
+      second: {r: 0.046496548, g: 0.04892017, b: 0.07352942, a: 0.5019608}
+    - first:
+        name: _SPEC_color
+      second: {r: 0.6544118, g: 0.7930442, b: 1, a: 1}
+    - first:
+        name: _SpecColor
+      second: {r: 0.5381704, g: 0.7336595, b: 0.9264706, a: 1}

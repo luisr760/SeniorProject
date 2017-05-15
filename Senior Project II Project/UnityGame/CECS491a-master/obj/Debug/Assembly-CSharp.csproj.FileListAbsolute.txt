@@ -1,0 +1,61 @@
+G:\school\CECS491AGame\Remote\UnityGame\CECS491a-master\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\obj\Debug\Assembly-CSharp.dll
+C:\Users\Howard Cho\Documents\491b\UnityGame\CECS491a-master\obj\Debug\Assembly-CSharp.pdb
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\Assembly-CSharp.dll
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEditor.dll
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.Analytics.dll
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.dll
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.HoloLens.dll
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.Networking.dll
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.UI.dll
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.VR.dll
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\Mono.Cecil.dll
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\Unity.DataContract.dll
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\Unity.UNetWeaver.dll
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\Unity.CecilTools.dll
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.xml
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEditor.xml
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.UI.xml
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.Networking.xml
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.Analytics.xml
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.HoloLens.xml
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\Temp\bin\Debug\UnityEngine.VR.xml
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\obj\Debug\Assembly-CSharp.dll
+G:\_git\cs491b\gitProj\491b\UnityGame\CECS491a-master\obj\Debug\Assembly-CSharp.pdb

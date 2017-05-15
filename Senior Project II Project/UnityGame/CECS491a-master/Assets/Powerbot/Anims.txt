@@ -1,0 +1,37 @@
+  
+  inside "Animation" file
+
+  10 -  49  idle
+  55 -  95  jump
+  55 -  70  jump up
+  75 -  78  falling
+  79 -  94  touch ground
+  96 - 120  run fwd
+ 126 - 155  die-fall back
+ 174 - 198  run w/ gun
+ 207 - 215  free fall
+ 222 - 232  shot stand
+ 235 - 250  get hit
+ 250 - 280  protection
+ 260 - 270  protect loop
+ 282 - 314  chest charge
+ 320 - 360  jump w/ gun
+ 364 - 385  floor slide
+ 391 - 415  super punch
+ 421 - 460  super uppercut
+ 465 - 506  crouch idle
+ 509 - 533  climb ladder
+ 600 - 621  climb ceiling start
+ 612 - 655  climb ceiling loop
+ 655 - 683  climb ceiling end
+ 689 - 736  charge energy begining/end
+ 710 - 724  charging energy loop
+ 742 - 748  jump strike down start
+ 749 - 751  jump strike down loop
+ 751 - 767  jump strike down finish
+ 769 - 797  strike down
+
+ in "Animations@Walk" file
+
+ 800 - 848  walk
+

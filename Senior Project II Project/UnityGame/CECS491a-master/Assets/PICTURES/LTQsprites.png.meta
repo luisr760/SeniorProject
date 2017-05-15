@@ -1,0 +1,3676 @@
+fileFormatVersion: 2
+guid: 4bd1921d6bd5761498ed245ff15869ab
+timeCreated: 1491339093
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ltThrowEmpty
+    21300002: LTQsprites_1
+    21300004: LTQsprites_2
+    21300006: LTQsprites_3
+    21300008: LTQsprites_4
+    21300010: LTQsprites_5
+    21300012: LTQsprites_6
+    21300014: LTQsprites_7
+    21300016: LTQsprites_8
+    21300018: LTQsprites_9
+    21300020: LTQsprites_10
+    21300022: LTQsprites_11
+    21300024: LTQsprites_12
+    21300026: LTQsprites_13
+    21300028: LTQsprites_14
+    21300030: LTQsprites_15
+    21300032: LTQsprites_16
+    21300034: LTQsprites_17
+    21300036: LTQsprites_18
+    21300038: LTQsprites_19
+    21300040: LTQsprites_20
+    21300042: LTQsprites_21
+    21300044: LTQsprites_22
+    21300046: LTQsprites_23
+    21300048: LTQsprites_24
+    21300050: LTQsprites_25
+    21300052: LTQsprites_26
+    21300054: LTQsprites_27
+    21300056: LTQsprites_28
+    21300058: LTQsprites_29
+    21300060: LTQsprites_30
+    21300062: LTQsprites_31
+    21300064: LTQsprites_32
+    21300066: LTQsprites_33
+    21300068: LTQsprites_34
+    21300070: LTQsprites_35
+    21300072: LTQsprites_36
+    21300074: LTQsprites_37
+    21300076: LTQsprites_38
+    21300078: LTQsprites_39
+    21300080: LTQsprites_40
+    21300082: LTQsprites_41
+    21300084: LTQsprites_42
+    21300086: LTQsprites_43
+    21300088: LTQsprites_44
+    21300090: LTQsprites_45
+    21300092: LTQsprites_46
+    21300094: LTQsprites_47
+    21300096: LTQsprites_48
+    21300098: LTQsprites_49
+    21300100: LTQsprites_50
+    21300102: LTQsprites_51
+    21300104: LTQsprites_52
+    21300106: LTQsprites_53
+    21300108: LTQsprites_54
+    21300110: LTQsprites_55
+    21300112: LTQsprites_56
+    21300114: LTQsprites_57
+    21300116: LTQsprites_58
+    21300118: LTQsprites_59
+    21300120: LTQsprites_60
+    21300122: LTQsprites_61
+    21300124: LTQsprites_62
+    21300126: LTQsprites_63
+    21300128: LTQsprites_64
+    21300130: LTQsprites_65
+    21300132: LTQsprites_66
+    21300134: LTQsprites_67
+    21300136: LTQsprites_68
+    21300138: LTQsprites_69
+    21300140: LTQsprites_70
+    21300142: LTQsprites_71
+    21300144: LTQsprites_72
+    21300146: LTQsprites_73
+    21300148: LTQsprites_74
+    21300150: LTQsprites_75
+    21300152: LTQsprites_76
+    21300154: LTQsprites_77
+    21300156: LTQsprites_78
+    21300158: LTQsprites_79
+    21300160: LTQsprites_80
+    21300162: LTQsprites_81
+    21300164: LTQsprites_82
+    21300166: LTQsprites_83
+    21300168: LTQsprites_84
+    21300170: LTQsprites_85
+    21300172: LTQsprites_86
+    21300174: LTQsprites_87
+    21300176: LTQsprites_88
+    21300178: LTQsprites_89
+    21300180: LTQsprites_90
+    21300182: LTQsprites_91
+    21300184: LTQsprites_92
+    21300186: LTQsprites_93
+    21300188: LTQsprites_94
+    21300190: LTQsprites_95
+    21300192: LTQsprites_96
+    21300194: LTQsprites_97
+    21300196: LTQsprites_98
+    21300198: LTQsprites_99
+    21300200: LTQsprites_100
+    21300202: LTQsprites_101
+    21300204: LTQsprites_102
+    21300206: LTQsprites_103
+    21300208: LTQsprites_104
+    21300210: LTQsprites_105
+    21300212: LTQsprites_106
+    21300214: LTQsprites_107
+    21300216: LTQsprites_108
+    21300218: LTQsprites_109
+    21300220: LTQsprites_110
+    21300222: LTQsprites_111
+    21300224: LTQsprites_112
+    21300226: LTQsprites_113
+    21300228: LTQsprites_114
+    21300230: LTQsprites_115
+    21300232: LTQsprites_116
+    21300234: LTQsprites_117
+    21300236: LTQsprites_118
+    21300238: LTQsprites_119
+    21300240: LTQsprites_120
+    21300242: LTQsprites_121
+    21300244: LTQsprites_122
+    21300246: LTQsprites_123
+    21300248: LTQsprites_124
+    21300250: LTQsprites_125
+    21300252: LTQsprites_126
+    21300254: LTQsprites_127
+    21300256: LTQsprites_128
+    21300258: LTQsprites_129
+    21300260: LTQsprites_130
+    21300262: LTQsprites_131
+    21300264: LTQsprites_132
+    21300266: LTQsprites_133
+    21300268: LTQsprites_134
+    21300270: LTQsprites_135
+    21300272: LTQsprites_136
+    21300274: LTQsprites_137
+    21300276: LTQsprites_138
+    21300278: LTQsprites_139
+    21300280: LTQsprites_140
+    21300282: LTQsprites_141
+    21300284: LTQsprites_142
+    21300286: LTQsprites_143
+    21300288: LTQsprites_144
+    21300290: LTQsprites_145
+    21300292: LTQsprites_146
+    21300294: LTQsprites_147
+    21300296: LTQsprites_148
+    21300298: LTQsprites_149
+    21300300: LTQsprites_150
+    21300302: LTQsprites_151
+    21300304: LTQsprites_152
+    21300306: LTQsprites_153
+    21300308: LTQsprites_154
+    21300310: LTQsprites_155
+    21300312: LTQsprites_156
+    21300314: LTQsprites_157
+    21300316: LTQsprites_158
+    21300318: LTQsprites_159
+    21300320: LTQsprites_160
+    21300322: LTQsprites_161
+    21300324: LTQsprites_162
+    21300326: LTQsprites_163
+    21300328: LTQsprites_164
+    21300330: LTQsprites_165
+    21300332: LTQsprites_166
+    21300334: LTQsprites_167
+    21300336: LTQsprites_168
+    21300338: LTQsprites_169
+    21300340: LTQsprites_170
+    21300342: LTQsprites_171
+    21300344: LTQsprites_172
+    21300346: LTQsprites_173
+    21300348: LTQsprites_174
+    21300350: LTQsprites_175
+    21300352: LTQsprites_176
+    21300354: LTQsprites_177
+    21300356: LTQsprites_178
+    21300358: LTQsprites_179
+    21300360: LTQsprites_180
+    21300362: LTQsprites_181
+    21300364: LTQsprites_182
+    21300366: LTQsprites_183
+    21300368: LTQsprites_184
+    21300370: LTQsprites_185
+    21300372: LTQsprites_186
+    21300374: LTQsprites_187
+    21300376: LTQsprites_188
+    21300378: LTQsprites_189
+    21300380: LTQsprites_190
+    21300382: LTQsprites_191
+    21300384: LTQsprites_192
+    21300386: LTQsprites_193
+    21300388: LTQsprites_194
+    21300390: LTQsprites_195
+    21300392: LTQsprites_196
+    21300394: LTQsprites_197
+    21300396: LTQsprites_198
+    21300398: LTQsprites_199
+    21300400: LTQsprites_200
+    21300402: LTQsprites_201
+    21300404: LTQsprites_202
+    21300406: LTQsprites_203
+    21300408: LTQsprites_204
+    21300410: LTQsprites_205
+    21300412: LTQsprites_206
+    21300414: LTQsprites_207
+    21300416: LTQsprites_208
+    21300418: LTQsprites_209
+    21300420: LTQsprites_210
+    21300422: LTQsprites_211
+    21300424: LTQsprites_212
+    21300426: LTQsprites_213
+    21300428: LTQsprites_214
+    21300430: LTQsprites_215
+    21300432: LTQsprites_216
+    21300434: LTQsprites_217
+    21300436: LTQsprites_218
+    21300438: LTQsprites_219
+    21300440: LTQsprites_220
+    21300442: LTQsprites_221
+    21300444: LTQsprites_222
+    21300446: LTQsprites_223
+    21300448: LTQsprites_224
+    21300450: LTQsprites_225
+    21300452: LTQsprites_226
+    21300454: LTQsprites_227
+    21300456: LTQsprites_228
+    21300458: LTQsprites_229
+    21300460: LTQsprites_230
+    21300462: LTQsprites_231
+    21300464: LTQsprites_232
+    21300466: LTQsprites_233
+    21300468: LTQsprites_234
+    21300470: LTQsprites_235
+    21300472: LTQsprites_236
+    21300474: LTQsprites_237
+    21300476: LTQsprites_238
+    21300478: LTQsprites_239
+    21300480: LTQsprites_240
+    21300482: LTQsprites_241
+    21300484: LTQsprites_242
+    21300486: LTQsprites_243
+    21300488: LTQsprites_244
+    21300490: LTQsprites_245
+    21300492: LTQsprites_246
+    21300494: LTQsprites_247
+    21300496: LTQsprites_248
+    21300498: LTQsprites_249
+    21300500: LTQsprites_250
+    21300502: LTQsprites_251
+    21300504: LTQsprites_252
+    21300506: LTQsprites_253
+    21300508: LTQsprites_254
+    21300510: LTQsprites_255
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 29}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ltThrowEmpty
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 618
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 642
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 642
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 642
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 642
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 642
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 642
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_8
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 642
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_9
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 642
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 642
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 642
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 642
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 642
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 642
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 642
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_16
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 640
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_17
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 640
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_18
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 640
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_19
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 640
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_25
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_27
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_28
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_29
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_30
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_31
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_32
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_33
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_34
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 552
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_37
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 552
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_38
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 552
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_39
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 552
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_40
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 552
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_41
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 552
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_42
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 552
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_43
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 552
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_44
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 552
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_45
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 552
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_46
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 552
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_47
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 552
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_48
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 552
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_49
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 552
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_50
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 552
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_51
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 571
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_52
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 552
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_53
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 552
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_55
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_56
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_57
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_58
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_60
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_61
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_62
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_63
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_64
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_65
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_66
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_67
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_68
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_69
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_70
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_71
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_73
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 511
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_74
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 511
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_75
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 511
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_76
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 511
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_77
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 511
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_78
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 511
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_79
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 509
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_80
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 511
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_81
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 509
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 452
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_84
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 452
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_85
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 452
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_86
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 427
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_87
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 427
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_88
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 427
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_89
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 427
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 371
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_92
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 371
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_93
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 371
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_94
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 371
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_95
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 371
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_96
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 371
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_97
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 371
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_98
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 371
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_99
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 371
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_100
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 371
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_101
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 371
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_102
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 371
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_103
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 371
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_104
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 371
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_105
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 371
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_106
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 371
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_107
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 371
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_108
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_109
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_110
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_111
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_112
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_113
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_114
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_115
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_116
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_117
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_118
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_119
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_120
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_121
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_122
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_123
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_124
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_125
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_127
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 327
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_128
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 327
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_129
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 327
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_130
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 327
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_131
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 327
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_132
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 327
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_133
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 327
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 277
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_135
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 277
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_136
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 277
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_137
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 277
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_138
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 277
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_139
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 277
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_140
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 277
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_141
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 277
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_142
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 277
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_143
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 277
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_144
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 277
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_145
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 277
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_146
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 277
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_147
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 277
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_148
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 277
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_149
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 284
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_150
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 291
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_151
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 291
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_153
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 230
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_154
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 230
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_155
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 230
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_156
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 230
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_157
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 230
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_158
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 230
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_159
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 230
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_160
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 230
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_161
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 230
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_162
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 230
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_163
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 230
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_164
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 230
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_165
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 230
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_166
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 230
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_167
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 241
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_168
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 241
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_169
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 241
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_170
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 241
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_172
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 181
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_173
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 181
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_174
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 181
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_175
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 181
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_176
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 181
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_177
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 181
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_178
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 181
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_179
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 181
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_180
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 181
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_181
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 181
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_182
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 181
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_183
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 181
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_184
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 181
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_185
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 181
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_186
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 215
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_187
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 215
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_188
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 215
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_189
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 215
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_190
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 189
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_191
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 189
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_192
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 189
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_193
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 189
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_195
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 101
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_196
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 101
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_197
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 101
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_198
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 101
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_199
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 129
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_200
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 117
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_201
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 130
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_202
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 130
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_203
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 130
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_204
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 130
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_205
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 113
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_206
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 117
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_207
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 117
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_208
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 117
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_209
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 113
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_210
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 113
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_211
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 113
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_212
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 113
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_213
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 97
+        width: 264
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_214
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 95
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_215
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 106
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_216
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 106
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_217
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 106
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_218
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 106
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_219
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_220
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_221
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_222
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_223
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_224
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 95
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_225
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 95
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_226
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 95
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_227
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 95
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_228
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_229
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 76
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_230
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 76
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_231
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 76
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_232
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 76
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_233
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_234
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_235
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_236
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 59
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_237
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 59
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_238
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_239
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_240
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 59
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_241
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_242
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_243
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_244
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_245
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_246
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_247
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_248
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_249
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_250
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_251
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_252
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_253
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 16
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_254
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 16
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LTQsprites_255
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 371
+        width: 613
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

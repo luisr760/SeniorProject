@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - spike
+  - fireball
+  - barrier
+  - Fire
+  - Enemy
+  - robomove
+  - ninjastar
+  - FireballItem
+  - NinjaItem
+  - FireballItem1
+  - Item
+  - Equip
+  - bomb
+  - bombAsh
+  - Checkpoint
+  - Start
+  - Box
+  - portal
+  - respawn
+  - camera
+  - deadzone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Background
+  - Obstacles
+  - Spikes
+  - Fireball
+  - FireLayer
+  - Enemy
+  - Flag
+  - NinjaStar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2663389181
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2489876783
+    locked: 0
+  - name: Foreground
+    uniqueID: 1640312819
+    locked: 0
